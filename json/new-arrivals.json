@@ -1,0 +1,10 @@
+{
+	"newArrivals": [
+		{
+			"image": "http://static.guitarcenter.com/static/gc/front-end-dev/code-assessment/new-arrival.jpg",
+			"title": "Gibson Les Paul",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis laoreet elit non dignissim posuere. Donec ligula justo, sollicitudin quis ipsum sed, accumsan bibendum massa. Suspendisse varius mattis felis vitae malesuada.",
+			"url": "http://www.guitarcenter.com"
+		}
+	]
+}
