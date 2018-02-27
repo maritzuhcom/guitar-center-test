@@ -13,7 +13,7 @@ function main() {
   const headerIntance = Header.register('app-header');
   const appBodyInstance = AppBody.register('app-body')
   const footer = Footer.register('app-footer');
-  document.body.appendChild(headerIntance);
-  document.body.appendChild(appBodyInstance);
-  document.body.appendChild(footer);
+  app.appendChild(headerIntance);
+  app.appendChild(appBodyInstance);
+  app.appendChild(footer);
 }
